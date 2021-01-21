@@ -1,0 +1,6 @@
+HEADER1,HEADER2,HEADER3
+foo,bar,baz
+foobar,"Some long text
+that has many lines
+
+and paragraphs in it.",barbaz
